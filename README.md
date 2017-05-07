@@ -70,4 +70,13 @@ Add the PNG file and R code file to the top-level folder of your git repository 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
 
 # Plot 1
-![Alt text](/neuronlytics/Peer-graded-Assignment-Exploratory-Data-Analysis/plot1.jpg?raw=true "Optional Title")
+![Plot 1](https://github.com/neuronlytics/Peer-graded-Assignment-Exploratory-Data-Analysis/blob/master/plot1.png "")
+
+# Plot 2
+![Plot 2](https://github.com/neuronlytics/Peer-graded-Assignment-Exploratory-Data-Analysis/blob/master/plot2.png "")
+
+# Plot 3
+![Plot 3](https://github.com/neuronlytics/Peer-graded-Assignment-Exploratory-Data-Analysis/blob/master/plot3.png "")
+
+# Plot 4
+![Plot 4](https://github.com/neuronlytics/Peer-graded-Assignment-Exploratory-Data-Analysis/blob/master/plot4.png "")
